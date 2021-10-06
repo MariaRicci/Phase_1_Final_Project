@@ -13,7 +13,6 @@ Business Problem: what types of films are currently doing the best at the box of
 - if people like a movie, more of them will be inclined to vote it
  
 ### Questions:
-- How many movies were produced?
 - What are the most gaining movies?
 - What are the movies with the highest average ratings?
 - What are the most voted movies?
